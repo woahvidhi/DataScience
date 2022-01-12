@@ -10,3 +10,4 @@
  - Classification
   1. Logistic Regression [Python](Python/Classification/LogisticRegression.ipynb)
   2. K-Nearest Neighbors [Python](Python/Classification/KNearestNeighbor.ipynb)
+  3. Support Vector Machine - SVM [Python](Python/Classification/SVM.ipynb)
