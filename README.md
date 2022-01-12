@@ -6,3 +6,7 @@
   4. Support Vector Regression [Python](Python/Regression/SVR.ipynb)
   5. Decision Tree Regression [Python](Python/Regression/DecisionTreeRegression.ipynb)
   6. Random Tree Regression [Python](Python/Regression/RandomTreeRegression.ipynb)
+ 
+ - Classification
+  1. Logistic Regression [Python](Python/Classification/LogisticRegression.ipynb)
+  2. K-Nearest Neighbors [Python](Python/Classification/KNearestNeighbor.ipynb)
